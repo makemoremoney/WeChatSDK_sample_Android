@@ -1,0 +1,2 @@
+# WeChatSDK_sample_Android
+WeChatSDK_sample_Android AndroidStudio版本
